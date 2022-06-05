@@ -36,7 +36,7 @@ A-Maze est un projet informatique écrit en Python à partir du module Pygame. I
   ![Lancer le programme](images/runfile.PNG)
   <figcaption>Exécuter le fichier main.py avec le terminal</figcaption>
 </figure>
-
+Il faut également installer la librairie PySimpleGUI. Pour ce, procédez de la même manière qu'avec l'installation de Pygame.
 Et voilà ! Vous pouvez enfin profiter de l'expérience **_A-MAZE_**.
 
 ## Gameplay
@@ -77,4 +77,4 @@ Il suffit de déplacer le fichier _mznv_ créé dans le répertoire **levels**. 
 ### 6. Envoyez vos niveaux aux responsables du projets
 
 Vous pouvez nous envoyer les niveaux que vous avez créé à l'adresse suivante : [pottier.victor@outlook.fr](mailto:pottier.victor@outlook.fr).
-Nous apprécierons beaucoup votre participation à l'embeillissement du projet A-Maze :) 
+Nous apprécierons beaucoup votre participation à l'embellissement du projet A-Maze :) 
