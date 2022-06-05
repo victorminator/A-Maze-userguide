@@ -15,6 +15,8 @@ A-Maze est un projet informatique écrit en Python à partir du module Pygame. I
   <figcaption>Installation Pygame à partir du terminal</figcaption>
 </figure>
 
+Il faut également installer la librairie PySimpleGUI. Pour ce, procédez de la même manière qu'avec l'installation de Pygame.
+
 ### 2. Installer le projet A-MAZE
 
 - Direction le [dépôt github](https://github.com/victorminator/projet_A-MAZE) où se situe le projet
@@ -36,7 +38,7 @@ A-Maze est un projet informatique écrit en Python à partir du module Pygame. I
   ![Lancer le programme](images/runfile.PNG)
   <figcaption>Exécuter le fichier main.py avec le terminal</figcaption>
 </figure>
-Il faut également installer la librairie PySimpleGUI. Pour ce, procédez de la même manière qu'avec l'installation de Pygame.
+
 Et voilà ! Vous pouvez enfin profiter de l'expérience **_A-MAZE_**.
 
 ## Gameplay
